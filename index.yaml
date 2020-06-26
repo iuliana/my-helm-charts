@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  family-chat:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-06-26T17:19:44.726407+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 9a276b1c2773764b125ba25f0f94d7e0213105eb421c68b6788e8f7eb7b05ea2
+    name: family-chat
+    type: application
+    urls:
+    - https://github.com/iuliana/my-helm-charts/releases/download/family-chat-0.1.0/family-chat-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-06-26T17:19:44.400203+01:00"
